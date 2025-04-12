@@ -1,5 +1,6 @@
-PyMuPDF==1.23.5
-nltk==3.8.1
-scikit-learn==1.4.1
-tk
-
+spacy
+pytesseract
+pillow
+PyMuPDF
+sentence-transformers
+scikit-learn
